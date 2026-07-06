@@ -20,7 +20,7 @@ def main():
 
     app.add_handler(CommandHandler("start", start))
 
-    print("Bot Started...")
+    print("===== BARDASKAN ARCHIVE BOT STARTED =====")
 
     app.run_polling()
 
